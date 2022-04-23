@@ -555,6 +555,7 @@ img {
 
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
 .content-soc {
   margin-left: 70px;
