@@ -328,6 +328,9 @@ img {
 }
 
 /* ---------------------TEAM-------------------------*/
+.team {
+  background-color: #f5f4fa;
+}
 
 .team-title {
   font-weight: 700;
@@ -349,7 +352,6 @@ img {
   color: #212121;
 
   margin-bottom: 10px;
-  /* margin-top: 30px; */
 }
 
 .team-text {
@@ -582,6 +584,7 @@ img {
   background: #2196f3;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
+  color: #ffffff;
 }
 
 .portfolio-item-title {
